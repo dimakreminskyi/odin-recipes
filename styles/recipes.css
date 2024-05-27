@@ -1,0 +1,9 @@
+body {
+	font-family: Verdana, Tahoma, Arial, sans-serif;
+	background-color: rgba(250, 128, 114, 0.75);
+}
+
+a {
+	color: #014491;
+	font-weight: 700;
+}
